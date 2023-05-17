@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\bin\Debug\net6.0-windows\Proyecto Final Curso Programacion.exe
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\bin\Debug\net6.0-windows\Proyecto Final Curso Programacion.deps.json
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\bin\Debug\net6.0-windows\Proyecto Final Curso Programacion.runtimeconfig.json
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\bin\Debug\net6.0-windows\Proyecto Final Curso Programacion.dll
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\bin\Debug\net6.0-windows\Proyecto Final Curso Programacion.pdb
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto_Final_Curso_Programacion.Inicio.resources
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto_Final_Curso_Programacion.Properties.Resources.resources
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.dll
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\refint\Proyecto Final Curso Programacion.dll
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.pdb
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto Final Curso Programacion.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\ref\Proyecto Final Curso Programacion.dll
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto_Final_Curso_Programacion.Juego.resources
+C:\Users\Admin\Desktop\Programasion\3r Trimestre\Proyecto Final Curso Programacion\obj\Debug\net6.0-windows\Proyecto_Final_Curso_Programacion.PlantillasGuardadas.resources

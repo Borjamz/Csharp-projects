@@ -1,0 +1,91 @@
+85;LB;Acuña.png;argentina;sevilla
+86;CB;Alaba.png;austria;rmadrid
+82;GK;Álex Remiro.png;españa;rsociedad
+83;CB;Araujo.png;uruguay;barça
+82;CB;Aritz Elustondo.png;españa;rsociedad
+83;RW;Asensio.png;españa;rmadrid
+91;CF;Benzema.png;francia;rmadrid
+81;ST;Borja Iglesias.png;españa;betis
+94;all;Borja.png;españa;all
+84;GK;Bounou.png;marruecos;sevilla
+84;RM;Canales.png;españa;betis
+85;LM;Carrasco.png;belgica;amadrid
+84;RB;Carvajal.png;españa;rmadrid
+81;ST;Cavani.png;uruguay;valencia
+82;CB;Christensen.png;dinamarca;barça
+80;CM;Coquelin.png;francia;villareal
+81;RW;Corona.png;mexico;sevilla
+83;ST;Correa.png;argentina;amadrid
+90;GK;Courtois.png;belgica;rmadrid
+82;LM;Danjuma.png;holanda;villareal
+83;CAM;David Silva.png;españa;rsociedad
+82;GK;David Soria.png;españa;getafe
+87;CM;de Jong.png;holanda;barça
+84;CM;De Paul.png;argentina;amadrid
+83;ST;De Tomás.png;españa;rvallecano
+81;CDM;Delaney.png;dinamarca;sevilla
+83;RW;Dembélé.png;francia;barça
+85;CF;Depay.png;holanda;amadrid
+84;CB;Éder Militao.png;brasil;rmadrid
+85;CAM;Fekir.png;francia;betis
+81;CB;Felipe.png;brasil;amadrid
+84;CF;Félix.png;portugal;amadrid
+83;CDM;Fernando.png;brasil;sevilla
+82;LW;Ferrán Torres.png;españa;barça
+82;CB;Gabriel Paulista.png;brasil;valencia
+82;LB;Gayà.png;españa;valencia
+85;ST;Gerard Moreno.png;españa;villareal
+83;CB;Giménez.png;uruguay;amadrid
+84;CAM;Gómez.png;argentina;sevilla
+83;ST;Griezmann.png;francia;amadrid
+84;LW;Hazard.png;belgica;rmadrid
+85;ST;Iago Aspas.png;españa;celta
+81;ST;Iñaki Williams.png;ghana;athletic
+82;CB;Iñigo Martínez.png;españa;athletic
+82;CAM;Isco.png;españa;sevilla
+83;RB;Jesús Navas.png;españa;sevilla
+85;LB;Jordi Alba.png;españa;barça
+84;CDM;Kessié.png;cmarfil;barça
+83;CM;Koke.png;españa;amadrid
+82;CM;Kondogbia.png;rcentroafricana;amadrid
+84;CB;Koundé.png;francia;barça
+88;CM;Kroos.png;alemania;rmadrid
+81;CB;Le Normand.png;francia;rsociedad
+83;CM;Lemar.png;francia;amadrid
+91;ST;Lewandowski.png;polonia;barça
+84;CM;Llorente.png;españa;amadrid
+81;CM;Lo Celso.png;argentina;villareal
+81;RB;Lucas Vázquez.png;españa;rmadrid
+81;ST;Matheus Cunha.png;brasil;amadrid
+83;LB;Mendy.png;francia;rmadrid
+83;CM;Merino.png;españa;rsociedad
+88;CM;Modric.png;croacia;rmadrid
+84;LM;Muniain.png;españa;athletic
+82;CB;Nacho.png;españa;rmadrid
+89;GK;Oblak.png;eslovenia;amadrid
+84;LW;Oyarzabal.png;españa;rsociedad
+86;CM;Parejo.png;españa;villareal
+83;CB;Pau Torres.png;españa;villareal
+85;CM;Pedri.png;españa;barça
+83;CB;Piqué.png;españa;barça
+82;CM;Rakitic.png;croacia;sevilla
+83;RW;Raphinha.png;brasil;barça
+82;CB;Raúl Albiol.png;españa;villareal
+81;CDM;Rodríguez.png;argentina;betis
+81;RW;Rodrygo.png;brasil;rmadrid
+87;CB;Rüdiger.png;alemania;rmadrid
+80;CM;Saúl.png;españa;amadrid
+84;CB;Savic.png;montenegro;amadrid
+82;CM;Sergi Darder.png;españa;espanyol
+85;CDM;Sergio Busquets.png;españa;barça
+82;CM;Tchouaméni.png;francia;rmadrid
+88;GK;ter Stegen.png;alemania;barça
+83;GK;Unai Simón.png;españa;athletic
+84;CM;Valverde.png;uruguay;rmadrid
+86;LW;Vinícius.png;brasil;rmadrid
+82;LB;Yuri Berchiche.png;españa;athletic
+79;RB;Montiel.png;argentina;sevilla
+77;RB;Capa.png;españa;athletic
+78;LB;Espino.png;uruguay;cadiz
+97;RB;Nathan.png;japon;all
+98;GK;Mark.png;japon;all

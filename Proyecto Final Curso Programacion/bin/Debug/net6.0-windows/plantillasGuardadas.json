@@ -1,0 +1,86 @@
+[
+  {
+    "Jugadores": {
+      "ST1": {
+        "Posicion": "ST",
+        "Pais": "polonia",
+        "Club": "bar\u00E7a",
+        "Valoracion": 91,
+        "RutaImgCarta": "futCards/Lewandowski.png"
+      },
+      "ST2": {
+        "Posicion": "CF",
+        "Pais": "francia",
+        "Club": "rmadrid",
+        "Valoracion": 91,
+        "RutaImgCarta": "futCards/Benzema.png"
+      },
+      "GK": {
+        "Posicion": "GK",
+        "Pais": "japon",
+        "Club": "all",
+        "Valoracion": 98,
+        "RutaImgCarta": "futCards/Mark.png"
+      },
+      "CM1": {
+        "Posicion": "CM",
+        "Pais": "espa\u00F1a",
+        "Club": "bar\u00E7a",
+        "Valoracion": 85,
+        "RutaImgCarta": "futCards/Pedri.png"
+      },
+      "CM2": {
+        "Posicion": "CAM",
+        "Pais": "argentina",
+        "Club": "sevilla",
+        "Valoracion": 84,
+        "RutaImgCarta": "futCards/G\u00F3mez.png"
+      },
+      "RM": {
+        "Posicion": "RM",
+        "Pais": "espa\u00F1a",
+        "Club": "betis",
+        "Valoracion": 84,
+        "RutaImgCarta": "futCards/Canales.png"
+      },
+      "LB": {
+        "Posicion": "LB",
+        "Pais": "argentina",
+        "Club": "sevilla",
+        "Valoracion": 85,
+        "RutaImgCarta": "futCards/Acu\u00F1a.png"
+      },
+      "LM": {
+        "Posicion": "LW",
+        "Pais": "brasil",
+        "Club": "rmadrid",
+        "Valoracion": 86,
+        "RutaImgCarta": "futCards/Vin\u00EDcius.png"
+      },
+      "CB2": {
+        "Posicion": "CB",
+        "Pais": "francia",
+        "Club": "bar\u00E7a",
+        "Valoracion": 84,
+        "RutaImgCarta": "futCards/Kound\u00E9.png"
+      },
+      "CB1": {
+        "Posicion": "CB",
+        "Pais": "alemania",
+        "Club": "rmadrid",
+        "Valoracion": 87,
+        "RutaImgCarta": "futCards/R\u00FCdiger.png"
+      },
+      "RB": {
+        "Posicion": "RB",
+        "Pais": "japon",
+        "Club": "all",
+        "Valoracion": 97,
+        "RutaImgCarta": "futCards/Nathan.png"
+      }
+    },
+    "Quimica": 29,
+    "Valoracion": 88,
+    "Nombre": "Plantilla 1"
+  }
+]
